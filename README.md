@@ -2,7 +2,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://portfolio-hariharan-sathiyamoorthys-projects.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-hari73118%40gmail.com-red)](mailto:hari73118@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hariharan-s-254098205/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hariharan-sathiyamoorthy-254098205/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Hariharan-Sathiyamoorthy)
 
 ## 🚀 About Me
